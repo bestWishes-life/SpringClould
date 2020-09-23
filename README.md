@@ -1,4 +1,3 @@
-[TOC]
 # 创建父项目
   > 创建普通maven项目
   ## 加入.gitignore文件
