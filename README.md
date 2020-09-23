@@ -67,4 +67,4 @@
     </dependencyManagement>
   ```
   # 注册中心
-  [registerCenter(Eureka Server)](https://github.com/Zealon159/)
+  [registerCenter(Eureka Server)](https://github.com/bestWishes-life/SpringClould/tree/master/registerCenter)
